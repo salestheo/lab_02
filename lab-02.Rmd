@@ -1,6 +1,6 @@
 ---
 title: "Lab 02 - Global plastic waste"
-author: "Team Name: Theo Sales, Andrew Wright, Daisy Luczaj, May Nishimura, Xi Chen"
+author: "Team Name: Theo Sales, Andrew Wright, Daisy Luczaj, Mayuko Nishimura, Xi Chen"
 date: "`r Sys.Date()`"
 output: html_document
 ---
